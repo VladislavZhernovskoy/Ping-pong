@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pin-pong", "Pin-pong\Pin-pong.pyproj", "{74832F5F-0924-407E-9707-8CD1F5013F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74832F5F-0924-407E-9707-8CD1F5013F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74832F5F-0924-407E-9707-8CD1F5013F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BAC548-4F04-42A3-87B7-D8DCD9FF9C89}
+	EndGlobalSection
+EndGlobal
